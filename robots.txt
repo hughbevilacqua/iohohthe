@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceijoizoz.moisesjose.com/sitemap.xml
